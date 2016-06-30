@@ -1,0 +1,18 @@
+{
+  "name": "docker-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " <anshulchanchlani@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dockerode": "^2.2.10",
+    "express": "^4.14.0",
+    "seneca": "^2.1.0",
+    "seneca-balance-client": "^0.5.0",
+    "seneca-mesh": "^0.7.0"
+  }
+}
